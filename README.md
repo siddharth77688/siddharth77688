@@ -1,23 +1,24 @@
 <!-- ANIMATED HEADER -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Siddharth%20Shah&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full%20Stack%20Developer&descAlignY=60&descSize=17" width="100%" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+AWS;550%2B+LeetCode+Problems+Solved;1650%2B+Contest+Rating;Always+Learning.+Always+Building." />
-</a>
+  <img src="banner.png"
+       width="100%"
+       alt="Siddharth Shah | Software Development Engineer"/>
+</div>
 
 <br/>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/siddharth-shah-ba4061286/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="https://leetcode.com/u/siddharth90750/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
+
 <a href="mailto:siddharth90750@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
